@@ -21,7 +21,6 @@
 	},
 	"homepage": "https://github.com/gage-langdon/bingbingbingbingbingbingbing#readme",
 	"dependencies": {
-		"chalk": "^2.3.2",
-		"commander": "^2.14.1"
+		"chalk": "^2.3.2"
 	}
 }
