@@ -1,0 +1,20 @@
+{
+	"name": "bingbingbingbingbingbingbing",
+	"version": "1.0.0",
+	"description": "bingbingbingbingbingbingbingbingbingbingbingbingbingbingbingbingbingbingbingbingbingbingbingbingbingbingbingbing",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gage-langdon/bingbingbingbingbingbingbing.git"
+	},
+	"author": "Gage Langdon <gagelangdon@gmail.com> (https://gage-langdon.com)",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/gage-langdon/bingbingbingbingbingbingbing/issues"
+	},
+	"homepage": "https://github.com/gage-langdon/bingbingbingbingbingbingbing#readme"
+}
