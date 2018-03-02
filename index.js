@@ -14,7 +14,7 @@ async function sleep(ms) {
 	return new Promise(res => setTimeout(res, ms));
 }
 
-program.command('bingbingbingbingbing <count> <delay>').action(async (count, delay) => {
+program.command('bingbingbing <count> <delay>').action(async (count, delay) => {
 	console.log(count, delay);
 	await bing(count, delay);
 });
